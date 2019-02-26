@@ -9,6 +9,7 @@
 /doc
 /.fetch
 erl_crash.dump
+mix.lock
 *.ez
 *.beam
 /config/*.secret.exs
