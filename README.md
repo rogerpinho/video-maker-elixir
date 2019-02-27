@@ -1,6 +1,6 @@
 # VideoMakerElixir
 
-**TODO: Add description**
+**Uma tentiva de refazer na linguagem elixir projeto [video maker](https://github.com/filipedeschamps/video-maker) de Filipe Deschamps.**
 
 ## Installation
 
